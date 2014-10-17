@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kuq:home|Door43 (kuq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kuq|d43-kuq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kuq/archive/master.zip|d43-kuq.zip]]
+
+**Recent Changes**
+{{changes>ns = kuq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kuq|Ethnologue data]]
+
